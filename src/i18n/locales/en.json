@@ -1,0 +1,23 @@
+{
+  "home": "Home",
+  "search": "Search",
+  "searchSchemes": "Search schemes...",
+  "addScheme": "Add Scheme",
+  "eligibility": "Eligibility Criteria",
+  "benefits": "Benefits",
+  "centralScheme": "Central Government Scheme",
+  "stateScheme": "State Government Scheme",
+  "changeLanguage": "Change Language",
+  "startOver": "Start Over",
+  "next": "Next",
+  "previous": "Previous",
+  "findSchemes": "Find Schemes",
+  "findSupportSchemes": "Find Support Schemes",
+  "discoverSchemes": "Discover government schemes and support programs tailored for you",
+  "findYourScheme": "Find Your Scheme",
+  "findSchemeDescription": "Answer a few questions to discover schemes you're eligible for",
+  "semanticSearch": "Semantic Search",
+  "chatDescription": "Chat with our AI to find relevant schemes based on your situation",
+  "compareSchemes": "Compare Schemes",
+  "compareDescription": "View and compare different schemes side by side"
+}
